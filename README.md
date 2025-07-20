@@ -17,11 +17,9 @@ This script allows users to extract all bond distances between two specified ato
 
 ## Usage
 
--Place your structure file (e.g., CONTCAR, structure.cif) in the same directory.
-
-Run the script: bond.py
-
-Follow the prompts:
+- Place your structure file (e.g., CONTCAR, structure.cif) in the same directory.
+- Run the script: bond.py
+- Follow the prompts:
 
 Enter structure file name (e.g., CONTCAR or structure.cif): CONTCAR
 Enter element symbol of atom 1 (e.g., Fe): Fe
