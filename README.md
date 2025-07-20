@@ -18,7 +18,7 @@ This script allows users to extract all bond distances between two specified ato
 ## Usage
 
 - Place your structure file (e.g., CONTCAR, structure.cif) in the same directory.
-- Run the script: bond.py
+- Run the script: python bond.py
 - Follow the prompts:
 
 Enter structure file name (e.g., CONTCAR or structure.cif): CONTCAR
